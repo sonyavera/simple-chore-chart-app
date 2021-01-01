@@ -15,6 +15,7 @@ const style = {
 }
 
 function ChoreChart(props) {
+  // const { chores } = props
   return (
     <table style={style.table}>
       <thead> 
